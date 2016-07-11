@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="jorge.palomarb.tipcalc.activities.TipDetailActivity">
+
+
+    <item
+        android:id="@+id/action_back"
+        android:title="@string/main.action.back"
+        android:icon="@drawable/ic_arrow_back_white_48dp"
+        app:showAsAction="always"
+
+        />
+
+
+</menu>

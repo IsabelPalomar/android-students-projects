@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TipCalc</string>
+
+
+    <string name="main.action.about">Acerca</string>
+    <string name="main.action.back">Atras</string>
+    <string name="main.button.submit">Calcular</string>
+    <string name="main.hint.bill">Total</string>
+    <string name="main.hint.percentaje">Porcentaje</string>
+    <string name="main.button.decrease">-</string>
+    <string name="main.button.increase">+</string>
+    <string name="main.button.clear">Borrar recientes</string>
+    <string name="main.notice.clear">Elementos recientes ha quedado vacío</string>
+
+    <string name="global.message.tip">Propina %,.1f</string>
+    <string name="tipdetail.message.bill">Total %,.1f</string>
+    <string name="action_settings">About</string>
+    <string name="title_activity_tip_detail">History Tip</string>
+
+
+</resources>
